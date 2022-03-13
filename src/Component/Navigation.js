@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-function Navigation() {
+function Navigations() {
   return (
     <div>
       <Navbar bg="primary" variant="dark">
